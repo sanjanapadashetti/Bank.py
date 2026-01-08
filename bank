@@ -1,0 +1,15 @@
+def account_details(account_number, holder_name, account_type, balance):
+    return (
+        f"Account Number:(account_number)\n"
+        f"Account Holder Name:(holder_name)\n"
+        f"Account Type:(account_type)\n"
+        f"Account Balance"(account_balance)
+    )
+
+if__name__=="__main__:"
+product_details = "account_details" 
+number = "123456789"
+name = "sanjana"
+type = "savings"
+balance = "25000"
+print(account_details(number, name, type, balance))
